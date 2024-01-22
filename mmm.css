@@ -92,7 +92,7 @@ h1, p{
 }
 @font-face {
     font-family: gagah;
-    src: url(Warsuck.ttf);
+    src: url(font/Warsuck.ttf);
 }
 h2{
     font-family: 'gagah';
@@ -100,7 +100,7 @@ h2{
 }
 @font-face {
     font-family: walah;
-    src: url(Dark\ College.otf);
+    src: url(font/Dark\ College.otf);
 }
 h1{
     color: white;

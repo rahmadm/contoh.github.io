@@ -57,14 +57,14 @@
 }
 @font-face {
     font-family: tulisan_bagus;
-    src: url(Warsuck.ttf);
+    src: url(font/Warsuck.ttf);
 }
 h2{
     font-family: 'tulisan_bagus';
 }
 @font-face {
     font-family: tulisan;
-    src: url(Dark\ College.otf);
+    src: url(font/Dark\ College.otf);
 }
 h1{
     font-family: 'tulisan';
