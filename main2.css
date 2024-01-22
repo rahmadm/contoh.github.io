@@ -55,3 +55,17 @@
 .jarakantar{
     margin-top: 15px;
 }
+@font-face {
+    font-family: tulisan_bagus;
+    src: url(Warsuck.ttf);
+}
+h2{
+    font-family: 'tulisan_bagus';
+}
+@font-face {
+    font-family: tulisan;
+    src: url(Dark\ College.otf);
+}
+h1{
+    font-family: 'tulisan';
+}

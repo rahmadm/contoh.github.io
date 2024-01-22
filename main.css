@@ -19,6 +19,20 @@
     height: 450px;
 }
 
+@font-face {
+    font-family: tulisan_keren;
+    src: url(Warsuck.ttf);
+}
+
+h1{
+   font-family: 'tulisan_keren'; 
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'tulisan_keren';
+}
+
 h1, p{
     color: rgb(253, 252, 252);
     text-align: justify;
